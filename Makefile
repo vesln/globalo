@@ -1,7 +1,7 @@
 TESTS = test/node.js
 REPORTER = dot
 
-browser: node_modules lib/* components
+standalone: node_modules components
 	@./node_modules/.bin/component-build -s globalo -o .
 	@mv build.js globalo.js
 

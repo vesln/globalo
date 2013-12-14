@@ -2,7 +2,7 @@
   "name": "globalo",
   "repo": "vesln/globalo",
   "description": "Top-level object detector",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
   "scripts": [
